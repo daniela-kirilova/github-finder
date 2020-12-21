@@ -34,14 +34,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/github-finder.git"
+    "url": "git+https://github.com/daniela-kirilova/github-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bradtraversy/github-finder/issues"
+    "url": "https://github.com/daniela-kirilova/github-finder/issues"
   },
-  "homepage": "https://github.com/bradtraversy/github-finder#readme",
+ 
   "devDependencies": {}
 }
